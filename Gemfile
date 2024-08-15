@@ -58,7 +58,7 @@ group :development do
 
   # Test suite
   gem 'rspec'
-  gem 'rspec-rails'
+  gem 'rspec-rails', '>= 6.1.4'
 
   # Linting
   gem 'rubocop'
